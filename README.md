@@ -1,7 +1,7 @@
 # 🧠 Human Stress Detection using Machine Learning
 
 ### 🔹 Home Interface
-![Home](images/home page.png)
+![Home](images/home_page.png)
 
 ---
 
