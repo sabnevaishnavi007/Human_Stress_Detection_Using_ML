@@ -72,7 +72,7 @@ It analyzes physiological signals and predicts whether a person is experiencing:
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/sabnevaishnavi007/Human_Stress_Detection_Using_ML.git
-cd Human Stress Detection
+cd Human_Stress_Detection_Using_ML
 
 ### 2️⃣ Install Dependencies
 ```bash
