@@ -67,12 +67,6 @@ It analyzes physiological signals and predicts whether a person is experiencing:
 
 ---
 
-## 📁 Project Structure
-
----
-
----
-
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the Repository
